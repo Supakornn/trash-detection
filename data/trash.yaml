@@ -1,0 +1,5 @@
+train: ./data/trash/train/images
+val: ./data/trash/valid/images
+
+nc: 3
+names: ["plastic", "bio", "rov"]
