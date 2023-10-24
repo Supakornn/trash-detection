@@ -5,7 +5,6 @@ Docs : https://docs.ultralytics.com/
 ## Quick Start
 
 ```bash
-git clone https://github.com/H3XxT/trash-detection.git
 pip install -r requirements.txt
 ```
 
