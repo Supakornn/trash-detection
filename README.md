@@ -1,6 +1,6 @@
 ## Made with YOLOv5
 
-Download at https://drive.google.com/file/d/1KqaeM5XDJLdsxm-NyCFFXzHHj9Ecn10K/view?usp=drive_link
+Download at : https://drive.google.com/file/d/1KqaeM5XDJLdsxm-NyCFFXzHHj9Ecn10K/view?usp=drive_link
 
 Docs : https://docs.ultralytics.com/
 
