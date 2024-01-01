@@ -1,0 +1,6 @@
+classes = 3
+train = ./train.txt
+valid = ./valid.txt
+test =  ./test.txt
+names = cfg/yolo.names
+backup = ../weights/yolo_tiny
