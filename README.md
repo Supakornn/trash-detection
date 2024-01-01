@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ## Inference
 
 ```bash
-python detect.py --source test/"videos_name.mp4" --weights best.pt --conf 0.25
+python detect.py --source test/"videos_name.mp4" --weights .\runs\train\exp\weights\best.pt --conf 0.25
 ```
 
 ## Exports
