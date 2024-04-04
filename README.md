@@ -1,6 +1,6 @@
 ## Made with YOLOv5
 
-## Best Sensoring Award & Best technical skill Award
+## Best Sensoring Award & Best technical skill Award @ ToBeIT'67 KMITL
 
 Download at : https://drive.google.com/file/d/1KqaeM5XDJLdsxm-NyCFFXzHHj9Ecn10K/view?usp=drive_link
 
