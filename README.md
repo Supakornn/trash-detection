@@ -1,6 +1,6 @@
 ## Made with YOLOv5
 
-## Best Sensoring Award & Best technical skill Award @ ToBeIT'67 KMITL
+## Best Sensoring Award & Best Technical Skill Award @ ToBeIT'67 KMITL
 
 Docs : https://docs.ultralytics.com/
 
